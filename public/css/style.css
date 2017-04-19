@@ -1,0 +1,46 @@
+.date-result {
+    border-style: groove;
+    width: 437px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.date-input {
+    height: 50px;
+    width: 400px;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 6px;
+}
+
+.date-input:-moz-placeholder {
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 6px;
+}
+
+.date-input::-webkit-input-placeholder {
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 6px;
+}
+
+.date-buttons {
+    position: absolute;
+}
+
+.date-post {
+    display: block;
+}
+
+.date-ajax {
+    margin-top: 8px;
+}
+
+.date-errors {
+    color: red;
+    width: 437px;
+    text-align: center;
+}
